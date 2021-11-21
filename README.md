@@ -14,19 +14,19 @@
 
 * Task 5
 
-This does the automation of generating utterances.
+  This does the automation of generating utterances.
 
 
 * Task 6
 
-Python program to convert a list of dictionaries which may contain duplicate dictonaries into a list containing unique dictionaries.
+  Python program to convert a list of dictionaries which may contain duplicate dictonaries into a list containing unique dictionaries.
 
 
 * Task 7
 
-Python program to check the validity of password input by users.
+  Python program to check the validity of password input by users.
 
 
 * Task 8
 
-Combine two dictionary adding values for common keys.
+  Combine two dictionary adding values for common keys.
